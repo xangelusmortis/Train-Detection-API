@@ -21,7 +21,7 @@ This is a FastAPI-based backend system for receiving and logging train detection
 
 ### 1. Clone the Repository
 
-git clone https://github.com/angelusmortis/train-detection-api.git
+git clone https://github.com/xangelusmortis/train-detection-api.git
 cd train-detection-api
 2. Install Dependencies
 Make sure you’re using Python 3.8 or newer.
