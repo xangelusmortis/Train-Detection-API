@@ -1,5 +1,5 @@
 # Train-Detection-API
-# Train Detection API
+
 
 This is a FastAPI-based backend system for receiving and logging train detections from smart sensors and AI-powered cameras. Designed to support real-time monitoring and rerouting for road traffic impacted by trains, this API is part of the larger "RoundAbout" project.
 
